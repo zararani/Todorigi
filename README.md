@@ -1,0 +1,2 @@
+# Todorigi
+With Todoigi app, you can keep track of everything – from simple errands like shopping, to your most ambitious projects – start getting things done.  A todo list you’d actually stick to because it's so simple and easy to use. ▸ Easily add and remove tasks ▸ Organize tasks under categories. ▸ Personalize task category using color and icon.  Thats it! Keep it simple stupid.   Happy Todoigi! :)
